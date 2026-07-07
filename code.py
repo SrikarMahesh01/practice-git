@@ -1,7 +1,7 @@
 print("Hello")
 print("How are you?")
-print("This is an Simple Addition Program")
-a=20
-b=30
-c=a+b
-print("The sum of a and b is:", c)
+print("This is an Simple Subtraction Program")
+a =50
+b = 20
+c = a - b
+print("The difference of a and b is:", c)

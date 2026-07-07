@@ -16,3 +16,8 @@ num1 = 5
 num2 = 10
 result = num1 * num2
 print("The result of multiplication is:", result)
+# Division Program
+num3 = 100
+num4 = 20
+result_division = num3 / num4
+print("The result of division is:", result_division)
